@@ -1,0 +1,11 @@
+body{
+    background-color: yellow;
+    
+}
+nav{
+    border: 1px;
+    display: flex;
+    flex-direction: row;
+    position: fixed;
+    bottom: 0%;
+}
